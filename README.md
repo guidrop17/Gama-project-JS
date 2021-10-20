@@ -1,6 +1,6 @@
 <h2 align="center"> Desafio 2 | Grupo 9 </h2>
 
-<p> Maria Clara Maciel | Guilherme Araujo | Naiza Xavier </p>
+<p align="center"> Maria Clara Maciel | Guilherme Araujo | Naiza Xavier </p>
 
 
 
