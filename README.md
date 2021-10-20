@@ -1,7 +1,10 @@
 <h2 align="center"> Desafio 2 | Grupo 9 </h2>
 
-<p align="center"> Maria Clara Maciel | Guilherme Araujo | Naiza Xavier </p>
+<div align="center">
+  
+<a href="https://github.com/mariaclaramaciel"> Maria Clara Maciel </a> | <a href="https://github.com/guidrop17">Guilherme Araujo</a> | <a href="">Naiza Xavier</a>
 
+</div>
 
 
   ![banner](https://user-images.githubusercontent.com/29720117/138115607-e59f7530-d6ec-4c17-8db0-79a629de1b5e.png)
