@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<a href="https://github.com/mariaclaramaciel"> Maria Clara Maciel </a> | <a href="https://github.com/guidrop17">Guilherme Araujo</a> | <a href="">Naiza Xavier</a>
+<a href="https://github.com/mariaclaramaciel" targer="_blank"> Maria Clara Maciel </a> | <a href="https://github.com/guidrop17" targer="_blank">Guilherme Araujo</a> | <a href="" targer="_blank">Naiza Xavier</a>
 
 </div>
 
