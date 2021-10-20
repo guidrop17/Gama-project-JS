@@ -1,8 +1,10 @@
 <h2 align="center"> Desafio 2 | Grupo 9 </h2>
-<p align="center">Maria Clara Maciel | Guilherme Araujo | Naiza Xavier </p>
+
+<p> Maria Clara Maciel | Guilherme Araujo | Naiza Xavier </p>
 
 
-  ![img-html](https://user-images.githubusercontent.com/29720117/136617040-d2c270a7-fd6a-41ac-8ceb-bb23dc50dc53.png)
+
+  ![banner](https://user-images.githubusercontent.com/29720117/138115607-e59f7530-d6ec-4c17-8db0-79a629de1b5e.png)
 
 
 <p> Você pode verificaras respostas direto na pasta de soluções com NodeJs, comandos logo abaixo, ou aqui <a href="https://desafio2-grupo9.netlify.app/">nesse link.</a> 
